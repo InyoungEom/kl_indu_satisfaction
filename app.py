@@ -199,8 +199,8 @@ def categorize_course(name: str) -> str:
 # 스트림릿 UI 시작
 # ---------------------------
 
-st.set_page_config(page_title="DX아카데미 교육 만족도 대시보드", layout="wide")
-st.title("코오롱인더스트리 DX아카데미 — 교육 만족도 대시보드")
+st.set_page_config(page_title="교육 만족도 대시보드", layout="wide")
+st.title("교육 만족도 대시보드")
 
 # 데이터 로드 (예외 처리 포함)
 try:
