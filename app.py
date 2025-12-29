@@ -1,4 +1,4 @@
-# Streamlit app for 시각화: 코오롱인더스트리 DX아카데미 교육 만족도
+# Streamlit app for 시각화: AI 교육 만족도
 # 작성: 자동생성 (프롬프트 엔지니어링 기반)
 # 필요 라이브러리: streamlit, pandas, plotly.express, collections, re
 # 사용법: streamlit run app.py
